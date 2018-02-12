@@ -9,7 +9,7 @@
 -----
 
 
-ERC20 version of DirtCoinToken. I have reduced the coin (token) count to 100 million (DirtCoin has 7.8 billion), and the Ticker is DIRTY ("DIRTY" is the real ticker for DirtCoin, but Yobit Exchange has always called it "Dirt").
+DirtCoinToken is an ERC20 version of DirtCoin (aka dimecoindirtiest). I have reduced the coin (token) count to 100 million (DirtCoin has 7.8 billion), and the Ticker is DIRTY ("DIRTY" is the real ticker for DirtCoin, but Yobit Exchange has always called it "Dirt").
 
 
 ------
